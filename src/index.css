@@ -1,0 +1,121 @@
+.color-body {
+  background-color: #f8f8f8;
+  height: 100vh;
+}
+
+.font {
+  font-family: "Almarai", sans-serif;
+}
+
+
+.title {
+  color: #224f61;
+  font-family: Almarai;
+  font-size: 30px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 64px;
+
+}
+
+.underline {
+  height: 1px;
+  width: 200px;
+  border-radius: 10px;
+  border: 2px solid #b45b35;
+}
+
+.btn-f {
+  background-color: #31718a;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  padding: 10px;
+}
+
+
+.btn-f:hover {
+  background-color: #224f61;
+
+}
+
+
+.btn-style {
+  border-radius: 8px;
+  font-family: Almarai;
+  color: #223f61;
+  background-color: #dce3eb;
+  border-style: none;
+  
+
+}
+
+
+
+.btn-style:hover {
+  color: #223f61;
+  font-family: Almarai;
+  letter-spacing: 0;
+  font-size: 15px;
+  line-height: 24px;
+  border-radius: 8px;
+  font-weight: bold;
+  border: none;
+  border-color: #b45b35;
+}
+
+
+.img-item {
+  height: 188px;
+  width: 252px;
+  border-radius: 5px;
+}
+
+.item-title {
+  color: #444;
+  font-family: Almarai;
+  font-size: 16px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 20px;
+
+}
+
+
+.item-description {
+  color: #8c8c8c;
+  font-family: Almarai;
+
+}
+
+
+.item-price {
+  color: #b45b35;
+  font-family: Almarai;
+  font-size: 16px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 20px;
+
+}
+
+.btn-search {
+  color: #b45b35;
+  border: 3px solid #b45b35;
+  border-radius: 8px;
+  background-color: white;
+}
+
+.btn-search:hover {
+  color: white;
+  border-radius: 3px solid white;
+  background-color: #b45b35;
+  border-radius: 8px;
+}
+
+
+.brand-color {
+  color: #222;
+  font-size: 20px;
+
+}
