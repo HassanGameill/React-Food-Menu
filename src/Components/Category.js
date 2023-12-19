@@ -18,7 +18,7 @@ const Category = ({ filterByCategory, allCategory }) => {
           {allCategory.length >= 1 ? (
             allCategory.map((cat) => {
               return (
-                <div key={cat.category}>
+                <div className="d-flex flex-wrap" key={cat.category}>
                   <button onClick={() => onFilter(cat)} className="btn-f mx-2">
                     {cat}
                   </button>
